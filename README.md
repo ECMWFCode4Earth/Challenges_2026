@@ -13,6 +13,9 @@ For eligibility of participation, please check the [Code for Earth Terms & Condi
 <img src='./Call for participation Banner Jan2026.jpg ' alt='ESoWC 2022' align='center' width='90%'></img>
 
 
+<br>
+<br>
+
 
 ## Browse the roadmap here below!
 
