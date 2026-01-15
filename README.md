@@ -56,4 +56,4 @@ Successfully completed projects will receive a €5,000 stipend.
 * [Code for Earth Terms & Conditions](https://codeforearth.ecmwf.int/terms-of-use/)
 * [Code for Earth Frequently Asked Questions](https://codeforearth.ecmwf.int/faqs/)
 * Follow Code for Earth on [LinkedIn](https://www.linkedin.com/company/ecmwf-code-for-earth), [YouTube](https://www.youtube.com/channel/UCWLn6evyZ6tTktvUSTE1Xow) and [Bluesky](https://bsky.app/profile/codeforearth.bsky.social)
-* ECMWF Newsletter: [Code for Earth 2024 – successful completion of 13 challenges](https://www.ecmwf.int/en/newsletter/181/news/code-earth-2024-successful-completion-13-challenges)
+* ECMWF Newsletter: [Code for Earth 2026: Innovation, collaboration and impact](https://www.ecmwf.int/en/newsletter/185/news/code-earth-2025-innovation-collaboration-and-impact)
