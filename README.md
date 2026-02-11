@@ -21,7 +21,7 @@ For eligibility of participation, please check the [Code for Earth Terms & Condi
 
 <img src='./LB Phase 1.png ' alt='ESoWC 2022' align='left' width='8%'></img>
 
-### 1. Call for Participation: 17 Feb - 30 March 2026
+### 1. Call for Participation: 24 Feb - 9 April 2026
 Browse through the Code for Earth 2026 challenges and ask questions. Together with ECMWF mentors, you can tailor your submission. Submit your proposal by 30 March 2026. For eligibility of participation, please check the [Code for Earth Terms & Conditions](http://codeforearth.ecmwf.int/terms-and-conditions). 
 
 📅 **Q&A Webinars** – Get insights & tips on crafting a winning proposal – [register on our website](https://codeforearth.ecmwf.int/qa-webinars/).
