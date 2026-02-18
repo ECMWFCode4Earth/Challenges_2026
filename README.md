@@ -52,7 +52,6 @@ Teams will be invited to present their project results.
 
 <br>
 
-Successfully completed projects will receive a €5,000 stipend.
 
 <br>
 
