@@ -19,22 +19,53 @@ For eligibility of participation, please check the [Code for Earth Terms & Condi
 
 There are four challenge streams: 
 
-<img src='./LB Phase 1.png ' alt='ESoWC 2022' align='left' width='8%'></img>
+<img src='./stream 1.png ' alt='ESoWC 2022' align='left' width='8%'></img>
+
+### 1. Data Visualization Stream 
+* Challenge 10 - PyroScope: Web visualisation tool for fire products
+* Challenge 11 - Interactive map-based dashboard for flood forecasting
+* Challenge 12 - Topology-Safe Geometry Simplification
+* Challenge 13 - Bridging the Gap: Reconciliation of Model Data with Observations
+* Challenge 14 - Visualising the impact of climate change for the European power system
 
 
 <br>
 
+<img src='./Stream 2.png ' alt='ESoWC 2022' align='left' width='8%'></img>
+
+### 2. Machine Learning Stream 
+* Challenge 20 - Machine Learning- Ready Archive of Satellite-Derived River Flood Inundation Observations
+* Challenge 21 - AIrWISE: AI-based Reporting for Air Quality
+* Challenge 22 - HydroML-Verify: Verification of physical consistency and hydrological signatures in ML-based streamflow forecasts and observations
+* Challenge 23 - COMPEXT: Tracking Compound Extreme Events for Energy Security in a Changing Climate
+* Challenge 24 - AI energy
+
+
+<br>
+
+<img src='./Stream 3.png ' alt='ESoWC 2022' align='left' width='8%'></img>
+
+### 3. Software Development Stream 
+* Challenge 30 - GIS App powered by Data Stores Service
+* Challenge 31 - CLAM - Cloud-computing based template for NWP Local Area Model
+* Challenge 32 - Smart User Requirements: AI-assisted Insights for C3S
+* Challenge 33 - From Thresholds to Events: Automated Air-Quality Feature Detection
+
+
+<br>
+
+<img src='./Africa Stream Icon Feb2026.png ' alt='ESoWC 2022' align='left' width='9%'></img>
+
+### 4. Africa Stream 
+* Challenge 40 - Compressing AI Numerical Weather Prediction (NWP) models for edge deployment
+
+  
 <br>
 
 <br>
 
 
 <br>
-
-
-<br>
-
-
 
 ## Browse the roadmap here below!
 
