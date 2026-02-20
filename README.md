@@ -58,6 +58,7 @@ There are four challenge streams:
 
 ### 4. Africa Stream 
 * Challenge 40 - Compressing AI Numerical Weather Prediction (NWP) models for edge deployment
+* Challenge 41 - Missed Opportunities in Flood Disaster Risk Management (under development)
 
   
 <br>
