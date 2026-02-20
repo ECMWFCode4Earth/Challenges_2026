@@ -14,7 +14,26 @@ For eligibility of participation, please check the [Code for Earth Terms & Condi
 
 
 <br>
+
+## Challenges 2026
+
+There are four challenge streams: 
+
+<img src='./LB Phase 1.png ' alt='ESoWC 2022' align='left' width='8%'></img>
+
+
 <br>
+
+<br>
+
+<br>
+
+
+<br>
+
+
+<br>
+
 
 
 ## Browse the roadmap here below!
