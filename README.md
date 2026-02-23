@@ -46,7 +46,7 @@ There are four challenge streams:
 <img src='./Stream 3.png ' alt='ESoWC 2022' align='left' width='8%'></img>
 
 ### 3. Software Development Stream 
-* Challenge 30 - GIS App powered by Data Stores Service
+* [Challenge 30 - GIS App powered by Data Stores Service](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/1)
 * Challenge 31 - CLAM - Cloud-computing based template for NWP Local Area Model
 * Challenge 32 - Smart User Requirements: AI-assisted Insights for C3S
 * Challenge 33 - From Thresholds to Events: Automated Air-Quality Feature Detection
