@@ -21,7 +21,7 @@ There are four challenge streams:
 
 <img src='./stream 1.png ' alt='ESoWC 2022' align='left' width='8%'></img>
 
-### 1. Data Visualization Stream 
+### [1. Data Visualization Stream](https://github.com/ECMWFCode4Earth/Challenges_2026/issues?q=state%3Aopen%20label%3A%22Data%20Visualization%22) 
 * [Challenge 10 - PyroScope: Web visualisation tool for fire products](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/3)
 * [Challenge 11 - Interactive map-based dashboard for flood forecasting](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/6)
 * [Challenge 12 - Topology-Safe Geometry Simplification](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/7)
