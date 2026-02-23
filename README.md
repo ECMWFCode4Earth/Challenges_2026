@@ -34,7 +34,7 @@ There are four challenge streams:
 <img src='./Stream 2.png ' alt='ESoWC 2022' align='left' width='8%'></img>
 
 ### 2. Machine Learning Stream 
-* Challenge 20 - Machine Learning- Ready Archive of Satellite-Derived River Flood Inundation Observations
+* [Challenge 20 - Machine Learning- Ready Archive of Satellite-Derived River Flood Inundation Observations](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/2)
 * Challenge 21 - AIrWISE: AI-based Reporting for Air Quality
 * Challenge 22 - HydroML-Verify: Verification of physical consistency and hydrological signatures in ML-based streamflow forecasts and observations
 * Challenge 23 - COMPEXT: Tracking Compound Extreme Events for Energy Security in a Changing Climate
