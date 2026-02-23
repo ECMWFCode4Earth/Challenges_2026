@@ -25,7 +25,7 @@ There are four challenge streams:
 * [Challenge 10 - PyroScope: Web visualisation tool for fire products](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/3)
 * [Challenge 11 - Interactive map-based dashboard for flood forecasting](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/6)
 * [Challenge 12 - Topology-Safe Geometry Simplification](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/7)
-* Challenge 13 - Bridging the Gap: Reconciliation of Model Data with Observations
+* [Challenge 13 - Bridging the Gap: Reconciliation of Model Data with Observations](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/10)
 * Challenge 14 - Visualising the impact of climate change for the European power system
 
 
