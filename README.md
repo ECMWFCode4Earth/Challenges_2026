@@ -56,7 +56,7 @@ There are four challenge streams:
 
 <img src='./Africa Stream Icon Feb2026.png ' alt='ESoWC 2022' align='left' width='9%'></img>
 
-### 4. Africa Stream 
+### [4. Africa Stream](https://github.com/ECMWFCode4Earth/Challenges_2026/issues?q=state%3Aopen%20label%3A%22Africa%22) 
 * [Challenge 40 - Compressing AI Numerical Weather Prediction (NWP) models for edge deployment](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/13)
 * Challenge 41 - Missed Opportunities in Flood Disaster Risk Management (under development)
 
