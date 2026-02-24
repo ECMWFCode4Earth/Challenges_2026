@@ -38,7 +38,7 @@ There are four challenge streams:
 * [Challenge 21 - AIrWISE: AI-based Reporting for Air Quality](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/4)
 * [Challenge 22 - HydroML-Verify: Verification of physical consistency and hydrological signatures in ML-based streamflow forecasts and observations](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/5)
 * [Challenge 23 - COMPEXT: Tracking Compound Extreme Events for Energy Security in a Changing Climate](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/12)
-* Challenge 24 - AI energy
+* [Challenge 24 - AI energy](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/14)
 
 
 <br>
