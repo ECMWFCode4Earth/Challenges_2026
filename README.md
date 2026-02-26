@@ -75,7 +75,7 @@ There are four challenge streams:
 ### 1. Call for Participation: 24 Feb - 9 April 2026
 Browse through the Code for Earth 2026 challenges and ask questions. Together with ECMWF mentors, you can tailor your submission. Submit your proposal by 9 April 2026. For eligibility of participation, please check the [Code for Earth Terms & Conditions](http://codeforearth.ecmwf.int/terms-and-conditions). 
 
-📅 **Q&A Webinars** – Get insights & tips on crafting a winning proposal – [register on our website](https://codeforearth.ecmwf.int/qa-webinars/).
+📅 **Q&A Webinars** – Get insights & tips on crafting a winning proposal
 
 
 
