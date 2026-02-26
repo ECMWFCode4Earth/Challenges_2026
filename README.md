@@ -107,7 +107,7 @@ Teams will be invited to present their project results.
 <br>
 
 ## Important links
-* [Submit your proposal for the 2026 edition of Code for Earth!](https://codeforearth.ecmwf.int/code-for-earth-submission-for-proposal/)
+* [Submit your proposal for the 2026 edition of Code for Earth!](https://codeforearth.ecmwf.int/submit-your-proposal-for-code-for-earth-2026/)
 * [Code for Earth website](https://codeforearth.ecmwf.int)
 * [Code for Earth Terms & Conditions](https://codeforearth.ecmwf.int/terms-of-use/)
 * [Code for Earth Frequently Asked Questions](https://codeforearth.ecmwf.int/faqs/)
