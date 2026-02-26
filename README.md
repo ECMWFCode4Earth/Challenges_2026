@@ -30,6 +30,7 @@ There are four challenge streams:
 
 _Selected teams under the Data Visualisation Stream that successfully finish the Coding Phase receive a one-off financial contribution of 5,000 EUR per team._
 <br>
+<br>
 
 <img src='./Stream 2.png ' alt='ESoWC 2022' align='left' width='8%'></img>
 
@@ -40,7 +41,8 @@ _Selected teams under the Data Visualisation Stream that successfully finish the
 * [Challenge 23 - COMPEXT: Tracking Compound Extreme Events for Energy Security in a Changing Climate](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/12)
 * [Challenge 24 - AI energy](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/14)
 
-
+_Selected teams under the Machine Learning Stream that successfully finish the Coding Phase receive a one-off financial contribution of 5,000 EUR per team._
+<br>
 <br>
 
 <img src='./Stream 3.png ' alt='ESoWC 2022' align='left' width='8%'></img>
@@ -51,7 +53,8 @@ _Selected teams under the Data Visualisation Stream that successfully finish the
 * [Challenge 32 - Smart User Requirements: AI-assisted Insights for C3S](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/9)
 * [Challenge 33 - From Thresholds to Events: Automated Air-Quality Feature Detection](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/11)
 
-
+_Selected teams under the Software Development Stream that successfully finish the Coding Phase receive a one-off financial contribution of 5,000 EUR per team._
+<br>
 <br>
 
 <img src='./Africa Stream Icon Feb2026.png ' alt='ESoWC 2022' align='left' width='9%'></img>
@@ -60,7 +63,8 @@ _Selected teams under the Data Visualisation Stream that successfully finish the
 * [Challenge 40 - Compressing AI Numerical Weather Prediction (NWP) models for edge deployment](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/13)
 * [Challenge 41 - Missed Opportunities in Flood Disaster Risk Management](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/16)
 
-  
+_Selected teams under the Africa Stream that successfully finish the Coding Phase receive a one-off financial contribution of 2,000 EUR per team._
+<br>  
 <br>
 
 <br>
