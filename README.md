@@ -28,7 +28,7 @@ There are four challenge streams:
 * [Challenge 13 - Bridging the Gap: Reconciliation of Model Data with Observations](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/10)
 * [Challenge 14 - Visualising the impact of climate change for the European power system](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/15)
 
-Selected teams under the Data Visualisation Stream that successfully finish the Coding Phase receive a one-off financial contribution of 5,000 EUR per team.
+_Selected teams under the Data Visualisation Stream that successfully finish the Coding Phase receive a one-off financial contribution of 5,000 EUR per team._
 <br>
 
 <img src='./Stream 2.png ' alt='ESoWC 2022' align='left' width='8%'></img>
