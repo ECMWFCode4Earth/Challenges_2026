@@ -17,7 +17,8 @@ For eligibility of participation, please check the [Code for Earth Terms & Condi
 
 ## Challenges 2026
 
-There are four challenge streams: 
+There are four challenge streams. 
+Please refer to each challenge for details on eligibility: 
 
 <img src='./stream 1.png ' alt='ESoWC 2022' align='left' width='8%'></img>
 
