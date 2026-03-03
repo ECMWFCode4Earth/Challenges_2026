@@ -63,6 +63,10 @@ _Selected teams under the Software Development Stream that successfully finish t
 * [Challenge 40 - Compressing AI Numerical Weather Prediction (NWP) models for edge deployment](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/13)
 * [Challenge 41 - Missed Opportunities in Flood Disaster Risk Management](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/16)
 
+
+_The funding source for the Africa stream challenges is EU funding under the Strengthening Early Warning in Africa (SWEA) Action. For details on the eligibility, please refer to Article 3 of the [Terms and Conditions](https://codeforearth.ecmwf.int/terms-and-conditions)._
+
+
 _Selected teams under the Africa Stream that successfully finish the Coding Phase receive a one-off financial contribution of 2,000 EUR per team._
 <br>  
 <br>
