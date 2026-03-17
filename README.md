@@ -81,7 +81,7 @@ Don’t miss our dedicated Code for Earth webinars! In these two 60-minute sessi
 Whether you’re already familiar with Code for Earth or are just learning about it, these webinars are perfect for anyone looking to learn more and get a competitive edge. Plus, at the end of each session, our team will be on hand to answer any questions you may have, helping you to maximise your chances of success. Make sure to register to secure your spot and join us for an informative and engaging session!
 
 ### Webinar #1
-🗓️ Thursday, 12/03/2026. Listen to the recordings [here](https://www.youtube.com/watch?v=r3DsiYUU1e0) 
+🗓️ Thursday, 12/03/2026. Listen to the [recordings.](https://www.youtube.com/watch?v=r3DsiYUU1e0) 
 
 ⏰ 15:00 – 16:00 CET
 
