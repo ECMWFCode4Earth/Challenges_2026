@@ -74,7 +74,7 @@ _Selected teams under the Africa Stream that successfully finish the Coding Phas
 
 ## Join our Q&A webinars!
 
-<img src='./Q&A Webinar Event Banner Jan2026-1.jpg ' alt='ESoWC 2022' align='center' width='90%'></img>
+<img src='./Q&A Webinar 2 Event Banner Jan2026.jpg ' alt='ESoWC 2022' align='center' width='90%'></img>
 
 Don’t miss our dedicated Code for Earth webinars! In these two 60-minute sessions, we will provide valuable insights and tips on how to create successful proposals for our programme.
 
