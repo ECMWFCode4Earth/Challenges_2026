@@ -65,7 +65,7 @@ _Selected teams under the Software Development Stream that successfully finish t
 * [Challenge 41 - Missed Opportunities in Flood Disaster Risk Management](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/16)
 
 
-_The funding source for the Africa stream challenges is EU funding under the Strengthening Early Warning in Africa (SEWA) Action. For details on the eligibility, please refer to Article 3 of the [Terms and Conditions](https://codeforearth.ecmwf.int/terms-and-conditions)._
+_The funding source for the Africa stream challenges is EU funding under the EU’s Africa Regional Centres of Excellence Programme (ArcX). For details on the eligibility, please refer to Article 3 of the [Terms and Conditions](https://codeforearth.ecmwf.int/terms-and-conditions)._
 
 
 _Selected teams under the Africa Stream that successfully finish the Coding Phase receive a one-off financial contribution of 2,000 EUR per team._
