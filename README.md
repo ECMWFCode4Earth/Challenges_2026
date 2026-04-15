@@ -14,7 +14,7 @@ For eligibility of participation, please check the [Code for Earth Terms & Condi
 
 
 <br>
-The Call for Participation for Code for Earth 2026 is now officially closed, and we’re moving into the next phase: ### evaluation.
+The Call for Participation for Code for Earth 2026 is now officially closed, and we’re moving into the next phase: evaluation.
 
 <br>
 <br>
