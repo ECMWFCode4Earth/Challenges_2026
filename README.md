@@ -10,10 +10,15 @@ For eligibility of participation, please check the [Code for Earth Terms & Condi
 <br>
 
 
-<img src='./Call for participation Banner Jan2026-1.jpg ' alt='ESoWC 2022' align='center' width='90%'></img>
+<img src='./Announcement of proposals Banner Jan2026-2.jpg ' alt='ESoWC 2022' align='center' width='90%'></img>
 
 
 <br>
+The Call for Participation for Code for Earth 2026 is now officially closed, and we’re moving into the next phase: ### evaluation.
+
+<br>
+<br>
+
 
 ## Challenges 2026
 
@@ -71,26 +76,6 @@ _The funding source for the Africa stream challenges is EU funding under the EU�
 _Selected teams under the Africa Stream that successfully finish the Coding Phase receive a one-off financial contribution of 2,000 EUR per team._
 
 <br>
-
-## Join our Q&A webinars!
-
-<img src='./Q&A Webinar Event Banner Jan2026-1.jpg ' alt='ESoWC 2022' align='center' width='90%'></img>
-
-Don’t miss our dedicated Code for Earth webinars! In these two 60-minute sessions, we will provide valuable insights and tips on how to create successful proposals for our programme.
-
-Whether you’re already familiar with Code for Earth or are just learning about it, these webinars are perfect for anyone looking to learn more and get a competitive edge. Plus, at the end of each session, our team will be on hand to answer any questions you may have, helping you to maximise your chances of success. Make sure to register to secure your spot and join us for an informative and engaging session!
-
-### Webinar #1
-🗓️ Thursday, 12/03/2026. Listen to the [recordings.](https://www.youtube.com/watch?v=r3DsiYUU1e0) 
-
-⏰ 15:00 – 16:00 CET
-
-### Webinar #2
-🗓️ Wednesday, 18/03/2026
-
-⏰ 15:00 – 16:00 CET
-
-[Register here](https://codeforearth.ecmwf.int/qa-webinars/)
 
 
 <br>
