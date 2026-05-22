@@ -69,7 +69,7 @@ The four-month long coding period starts on 01 May 2026 and ends on 31 August 20
 <img src='./LB Phase 4.png ' alt='ESoWC 2022' align='left' width='10%'></img>
 
 ### 4. Code for Earth Final day: September 2026
-The Code for Earth Final Day is a celebratory completion of the programme. This year the event will be hosted at ECMWF's site in Bologna, Italy.
+The Code for Earth Final Day is a celebratory completion of the programme. This year the event will be hosted at ECMWF's Headquarters in Reading, UK.
 Teams will be invited to present their project results.
 
 <br>
