@@ -14,66 +14,29 @@ For eligibility of participation, please check the [Code for Earth Terms & Condi
 
 
 <br>
-The Call for Participation for Code for Earth 2026 is now officially closed, and we’re moving into the next phase: evaluation.
-
-<br>
 <br>
 
 
-## Challenges 2026
+## Code for Earth 2026 Projects
+Congratulations to all the teams that have been selected to be part of Code for Earth 2026:
 
-There are four challenge streams. 
-Please refer to each challenge for details on eligibility: 
+| Project title | Team | Mentors |
+| ---------- | --------------- | -------------- |
+| [**Tabula Caloris**](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/3) | Jean-Baptiste Filippi <br> Ronan Paugam | [Joe McNorton](https://github.com/joemcnorton) <br> [Edward Comyn-Platt](https://github.com/EddyCMWF) <br> [Mark Parrington](https://github.com/mparrington) <br> [Chris Barnard](https://github.com/enyfeo) <br> [Matt Menary](https://github.com/mattofficeuk) | 
+| [**PowerClimate Vision – Interactive Dashboard for Pan-European Climate-Energy Projections**](https://github.com/ECMWFCode4Earth/Challenges_2025/issues/13) | Alexandru Dumitrescu <br> Vlad Amihaesei | [Aron Zuicker](https://github.com/azentsoe) <br> [Laurent Dubus](https://github.com/ldubus) <br> Ahmed Elshami <br> Katharina Gruber <br> Hanno Mueller <br> [Nube Gonzalez Reviriego](https://github.com/NubeGR) <br> [Niclas Rieger](https://github.com/nicrie) |
+| [**Project Atlantis: -A Scalable STAC/Zarr Pipeline for ML-Ready Multi-Source Flood Inundation Observations**](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/2) | Stylianos Lagaras <br> Ioannis Kalfas | [Calum Baugh](https://github.com/calumbaugh) <br> [Gianpaolo Balsamo](https://github.com/gpbalsamo) <br> [Kenza Tazi](https://github.com/kenzaxtazi) <br> [Andreas Grafberger](https://github.com/andreas-grafberger) |
+| [**AIr-wise: AI-Based Uncertainty-Aware Air Quality Assessment**](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/4)|  Judongyang Zhou <br> Linfeng Li |  [Panagiotis Kountouris](https://github.com/orgs/ECMWFCode4Earth/people/pakoun) <br> [Mark Parrington](https://github.com/mparrington) <br> Jonilda Kushta <br> Melanie Ades <br> [Miha Razinger](https://github.com/miha-at-ecmwf) |
+| [**TriHydrA: A Three-Layer Verification Framework for Streamflow Anomaly Detection**](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/5) | Tarannum Tabassum | [Maliko Tanguy](https://github.com/ecMaliko) <br> [Gwyneth Matthews](https://github.com/GwynethMatthews) <br> [Kenza Tazi](https://github.com/kenzaxtazi) <br> [Maria Luisa Taccari](https://github.com/mlttac) <br> [Nikolaos Mastrantonas](https://github.com/NikosMastrantonas) |
+| [**CausaLCEI — A Regime-Conditioned Causal Compound Event Index for Energy System Stress**](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/12) | Irene Schicker <br> Sebastian Lehner <br> Annemarie Lexer |  Alberto Troccoli <br> Penny Boorman <br> Kristian Nielsen <br> Letizia Lusito <br> [Stefano Cordeddu](https://github.com/stefanocordeddu) <br> [Gianpaolo Balsamo](https://github.com/gpbalsamo) <br> Christoph Rudiger <br> Joaquin Munoz-Sabater |
+| [**Weather to Grid: Subseasonal Energy Forecasting using ML**](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/14) | Quentin Nicolas <br> Emma Scharfmann <br> Nora Zilibotti <br> Vishnupriya Selvakumar |  [Edward Comyn-Platt](https://github.com/EddyCMWF) <br> Clara Ducher <br> [Chiara Gagnazzo](https://github.com/chiaracagnazzo) <br> [Fiona Spuler](https://github.com/fiona511) <br> [Ben Aslan](https://github.com/deepfloe) |
+| [**VAE toolbox**](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/14)) | Alexander Hempel <br> Antonia Bahr | [Edward Comyn-Platt](https://github.com/EddyCMWF) <br> Clara Ducher <br> [Chiara Gagnazzo](https://github.com/chiaracagnazzo) <br> [Fiona Spuler](https://github.com/fiona511) <br> [Ben Aslan](https://github.com/deepfloe) |
+| [**GeoBridge**](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/1) | Ilias Machairas <br> Konstantinos Fokeas | [Angel Lopez Alos](https://github.com/ALopAGH) <br> Samuel Almond |
+| [**CLAM: A Reproducible WRF/WPS Template for Local Area NWP on the European Weather Cloud**](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/8) | Iliija Jovicic | [Roberto Cuccu](https://github.com/ecusrc)  <br> [Bojan Kasic](https://github.com/bkasic) <br> [Alon Shtivelman](https://github.com/ecalonsh) |
 
-<img src='./stream 1.png ' alt='ESoWC 2022' align='left' width='8%'></img>
 
-### [1. Data Visualization Stream](https://github.com/ECMWFCode4Earth/Challenges_2026/issues?q=state%3Aopen%20label%3A%22Data%20Visualization%22) 
-* [Challenge 10 - PyroScope: Web visualisation tool for fire products](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/3)
-* [Challenge 11 - Interactive map-based dashboard for flood forecasting](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/6)
-* [Challenge 12 - Topology-Safe Geometry Simplification](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/7)
-* [Challenge 13 - Bridging the Gap: Reconciliation of Model Data with Observations](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/10)
-* [Challenge 14 - Visualising the impact of climate change for the European power system](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/15)
 
-_Selected teams under the Data Visualisation Stream that successfully finish the Coding Phase receive a one-off financial contribution of 5,000 EUR per team._
+
 <br>
-<br>
-
-<img src='./Stream 2.png ' alt='ESoWC 2022' align='left' width='8%'></img>
-
-### [2. Machine Learning Stream](https://github.com/ECMWFCode4Earth/Challenges_2026/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22Machine%20Learning%22) 
-* [Challenge 20 - Machine Learning- Ready Archive of Satellite-Derived River Flood Inundation Observations](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/2)
-* [Challenge 21 - AIrWISE: AI-based Reporting for Air Quality](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/4)
-* [Challenge 22 - HydroML-Verify: Verification of physical consistency and hydrological signatures in ML-based streamflow forecasts and observations](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/5)
-* [Challenge 23 - COMPEXT: Tracking Compound Extreme Events for Energy Security in a Changing Climate](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/12)
-* [Challenge 24 - AI energy](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/14)
-
-_Selected teams under the Machine Learning Stream that successfully finish the Coding Phase receive a one-off financial contribution of 5,000 EUR per team._
-<br>
-<br>
-
-<img src='./Stream 3.png ' alt='ESoWC 2022' align='left' width='8%'></img>
-
-### [3. Software Development Stream](https://github.com/ECMWFCode4Earth/Challenges_2026/issues?q=state%3Aopen%20label%3A%22Software%20Development%22) 
-* [Challenge 30 - GIS App powered by Data Stores Service](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/1)
-* [Challenge 31 - CLAM - Cloud-computing based template for NWP Local Area Model](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/8)
-* [Challenge 32 - Smart User Requirements: AI-assisted Insights for C3S](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/9)
-* [Challenge 33 - From Thresholds to Events: Automated Air-Quality Feature Detection](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/11)
-
-_Selected teams under the Software Development Stream that successfully finish the Coding Phase receive a one-off financial contribution of 5,000 EUR per team._
-<br>
-<br>
-
-<img src='./Africa Stream Icon Feb2026.png ' alt='ESoWC 2022' align='left' width='9%'></img>
-
-### [4. Africa Stream](https://github.com/ECMWFCode4Earth/Challenges_2026/issues?q=state%3Aopen%20label%3A%22Africa%20Stream%22) 
-* [Challenge 40 - Compressing AI Numerical Weather Prediction (NWP) models for edge deployment](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/13)
-* [Challenge 41 - Missed Opportunities in Flood Disaster Risk Management](https://github.com/ECMWFCode4Earth/Challenges_2026/issues/16)
-
-
-_The funding source for the Africa stream challenges is EU funding under the EU’s Africa Regional Centres of Excellence Programme (ArcX). For details on the eligibility, please refer to Article 3 of the [Terms and Conditions](https://codeforearth.ecmwf.int/terms-and-conditions)._
-
-
-_Selected teams under the Africa Stream that successfully finish the Coding Phase receive a one-off financial contribution of 2,000 EUR per team._
 
 <br>
 
