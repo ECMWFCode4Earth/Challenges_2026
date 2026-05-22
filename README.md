@@ -10,7 +10,7 @@ For eligibility of participation, please check the [Code for Earth Terms & Condi
 <br>
 
 
-<img src='./Announcement of proposals Banner Jan2026-2.jpg ' alt='ESoWC 2022' align='center' width='90%'></img>
+<img src='./Coding Phase.jpg ' alt='ESoWC 2022' align='center' width='90%'></img>
 
 
 <br>
