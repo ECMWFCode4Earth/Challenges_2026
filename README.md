@@ -12,7 +12,32 @@ For eligibility of participation, please check the [Code for Earth Terms & Condi
 <br>
 
 
-<img src='./Coding Phase.jpg ' alt='ESoWC 2022' align='center' width='90%'></img>
+## Mid-term Webinars
+The Code for Earth 2026 Mid-Term Webinars are a great opportunity to follow the journey of our teams as they present the progress, insights, and challenges from the first half of the Coding Phase.
+
+Over the course of two sessions, each lasting 90 minutes, the selected teams will showcase their projects to the public, sharing their goals, technical updates, early achievements, and the obstacles they’re tackling head-on.
+
+
+
+<img src='./Midterm_Webinars_draft.png ' alt='ESoWC 2022' align='center' width='90%'></img>
+
+
+<br>
+<br>
+
+
+### 🗓️ Webinar 1 
+
+Date: Thursday, 16 July 2026             
+Time: 14:30 – 16:00 CEST
+
+### 🗓️ Webinar 2 
+
+Date: Thursday, 16 July 2026             
+Time: 14:30 – 16:00 CEST                 
+
+➡️ Register [here](https://codeforearth.ecmwf.int/mid-term-webinars/)
+
 
 
 <br>
