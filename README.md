@@ -33,7 +33,7 @@ Time: 14:30 – 16:00 CEST
 
 ### 🗓️ Webinar 2 
 
-Date: Thursday, 16 July 2026             
+Date: Wednesday, 22 July 2026             
 Time: 14:30 – 16:00 CEST                 
 
 ➡️ Register [here](https://codeforearth.ecmwf.int/mid-term-webinars/)
