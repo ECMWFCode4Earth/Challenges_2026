@@ -19,7 +19,7 @@ The Code for Earth Final Day 2026 was held at ECMWF's headquarters in Reading, U
 
 
 
-<img src='./Midterm_Webinars_draft.png ' alt='ESoWC 2022' align='center' width='90%'></img>
+<img src='./Final Event Banner NO SAVE THE DATE.jpg ' alt='ESoWC 2022' align='center' width='90%'></img>
 
 
 <br>
