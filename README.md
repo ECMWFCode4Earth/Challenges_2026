@@ -12,10 +12,10 @@ For eligibility of participation, please check the [Code for Earth Terms & Condi
 <br>
 
 
-## Mid-term Webinars
-The Code for Earth 2026 Mid-Term Webinars are a great opportunity to follow the journey of our teams as they present the progress, insights, and challenges from the first half of the Coding Phase.
+## Code for Earth Final Event 2026
+During the celebratory Final Day event, fourteen teams, across Europe and Africa, presented their work and demonstrated how their projects could contribute to future environmental, atmospheric and climate data applications within ECMWF, partner organisations and the wider open-source community. 
 
-Over the course of two sessions, each lasting 90 minutes, the selected teams will showcase their projects to the public, sharing their goals, technical updates, early achievements, and the obstacles they’re tackling head-on.
+The Code for Earth Final Day 2026 was held at ECMWF's headquarters in Reading, UK, on 23 September. 
 
 
 
@@ -26,17 +26,9 @@ Over the course of two sessions, each lasting 90 minutes, the selected teams wil
 <br>
 
 
-### 🗓️ Webinar 1 
+                
 
-Date: Thursday, 16 July 2026             
-Time: 14:30 – 16:00 CEST
-
-### 🗓️ Webinar 2 
-
-Date: Wednesday, 22 July 2026             
-Time: 14:30 – 16:00 CEST                 
-
-➡️ Register [here](https://codeforearth.ecmwf.int/mid-term-webinars/)
+➡️ You can watch the recordings [here](https://www.youtube.com/watch?v=Fe_6YgCOxnY&list=PLLy3GQZX9sRc)
 
 
 
