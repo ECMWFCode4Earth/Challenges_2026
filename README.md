@@ -103,3 +103,4 @@ Teams will be invited to present their project results.
 * [Code for Earth Frequently Asked Questions](https://codeforearth.ecmwf.int/faqs/)
 * Follow Code for Earth on [LinkedIn](https://www.linkedin.com/company/ecmwf-code-for-earth), [YouTube](https://www.youtube.com/channel/UCWLn6evyZ6tTktvUSTE1Xow) and [Bluesky](https://bsky.app/profile/codeforearth.bsky.social)
 * ECMWF Newsletter: [Code for Earth 2025: Innovation, collaboration and impact](https://www.ecmwf.int/en/newsletter/185/news/code-earth-2025-innovation-collaboration-and-impact)
+* ECMWF Article: [Code for Earth Final Day 2026 showcases open-source solutions for weather and climate challenges across Europe and Africa](https://www.ecmwf.int/en/about/media-centre/news/2026/code-earth-final-day-2026)
